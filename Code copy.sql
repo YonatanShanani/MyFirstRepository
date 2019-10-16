@@ -1,0 +1,1 @@
+select  * from MyTable where MyTable.id <> 0
